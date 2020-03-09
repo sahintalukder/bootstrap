@@ -1,0 +1,50 @@
+*{margin: 0;
+
+}
+.top{
+  
+  margin-top: 40px;
+}
+.container{
+
+  width: 1000px;
+  margin: auto;
+  overflow: hidden;
+}
+.content{
+
+  width: 33%;
+  padding: 10px;
+  float: left;
+  box-sizing: border-box;
+}
+.textbox{
+
+  background-color: #00000017;
+  padding: 20px;
+}
+h3{
+
+}
+p{
+
+}
+.pic{
+
+  width: 1100px;
+  background-color: #00000026;
+  margin: auto;
+  overflow: hidden;
+  float: ;
+}
+.gallery{
+
+  width: 33%;
+  float: ;
+  box-sizing: border-box;
+  padding: 20px;
+  float: left;
+}
+img{
+  width: 100%
+}
